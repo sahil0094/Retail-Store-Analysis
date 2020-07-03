@@ -24,7 +24,7 @@ Analyzing past retail store data to help owner with inventory management so that
 We were given the invoice timestamp from which we extracted the month and aggregated the data on month level. We calculated total sales of each product in each month.Lastly, we created three separate categories of items as per their sales - (0-1000,100-3000,>3000)GBP. These ranges can vary as per the retail owner.
 We also generated an interactive plot on tableau through which retail owner can easily see which are top priority items for each month.
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/profile/sahil.pahuja#!/vizhome/OnlineRetailStore_15937620853590/Sheet1?publish=yes" width = '650' height = '450' scrolling='yes' ></iframe>
+<frame seamless frameborder="0" src="https://public.tableau.com/profile/sahil.pahuja#!/vizhome/OnlineRetailStore_15937620853590/Sheet1?publish=yes" width = '650' height = '450' scrolling='yes' ></frame>
 
 ## Tools Used
 ![alt text](https://github.com/sahil0094/Retail-Store-Analysis/blob/master/tools.jpg?raw=true)
