@@ -25,4 +25,5 @@ We were given the invoice timestamp from which we extracted the month and aggreg
 We also generated an interactive plot on tableau through which retail owner can easily see which are top priority items for each month.
 
 ## Tools Used
-![alt text](https://github.com/sahil0094/Retail-Store-Analysis/blob/master/t.png?raw=true)
+![alt text](https://github.com/sahil0094/Retail-Store-Analysis/blob/master/Viz.jpg?raw=true)
+![alt text](https://github.com/sahil0094/Retail-Store-Analysis/blob/master/tableau.png?raw=true)
