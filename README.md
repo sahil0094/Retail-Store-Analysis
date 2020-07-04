@@ -17,7 +17,7 @@ There are missing values in the data, please optimize it by doing the analysis.
 The data seems to be from a UK retail store as 91% transactions are from UK.
 
 
-## Business Object
+## Business Objective
 Analyzing past retail store data to help owner with inventory management so that he/she is better prepared for the upcoming year.
 
 ## Approach
